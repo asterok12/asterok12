@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asterok12
-- 👀 I’m interested in Desktop App
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Discord: AriMeKaRIU#3619
